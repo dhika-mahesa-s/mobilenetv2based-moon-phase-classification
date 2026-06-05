@@ -172,7 +172,7 @@ Fishing schedule recommendation
    - Place in the `dataset/` directory following the structure below
 
 4. **Run the notebook**
-   - Open `moon_phase_classification.ipynb` in Jupyter or Google Colab
+   - Open `mobilenetv2based_moon_phase_classification.ipynb` in Jupyter or Google Colab
    - Run all cells sequentially
    - Training checkpoints will be saved to `models/`
 
@@ -186,7 +186,7 @@ Fishing schedule recommendation
 ```
 moon-phase-classification/
 │
-├── moon_phase_classification.ipynb   # Main training notebook
+├── mobilenetv2based_moon_phase_classification.ipynb   # Main training notebook
 ├── requirements.txt                  # Python dependencies
 ├── README.md
 │

@@ -1,0 +1,8 @@
+First_Quarter_Moon
+Full_Moon
+New_Moon
+Third_Quarter_Moon
+Waning_Gibbous_Moon
+Wanning_Cresent_Moon
+Waxing_Cresent_Moon
+Waxing_Gibbous_Moon

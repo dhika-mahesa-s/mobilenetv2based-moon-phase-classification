@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background layers -->
+    <color name="bg_dark">#0A1628</color>
+    <color name="bg_pink">#FFC0CB</color>
+    <color name="bg_card">#112240</color>
+    <color name="bg_card_alt">#1A2F4A</color>
+    <color name="bg_surface">#0D1B2E</color>
+
+    <!-- Accent -->
+    <color name="accent_teal">#00BCD4</color>
+    <color name="accent_blue">#0288D1</color>
+    <color name="accent_teal_dim">#004D5E</color>
+
+    <!-- Text -->
+    <color name="text_primary">#E8F4FD</color>
+    <color name="text_secondary">#8BAAB8</color>
+    <color name="text_hint">#4A6572</color>
+
+    <!-- Recommendation level colors -->
+    <color name="recommend_green">#4CAF50</color>
+    <color name="recommend_teal">#00BCD4</color>
+    <color name="recommend_yellow">#FFC107</color>
+    <color name="recommend_orange">#FF9800</color>
+    <color name="recommend_red">#F44336</color>
+
+    <!-- Semantic -->
+    <color name="warning_orange">#FF9800</color>
+    <color name="danger_red">#F44336</color>
+    <color name="success_green">#4CAF50</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="divider">#1E3A5F</color>
+</resources>
